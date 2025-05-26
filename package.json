@@ -1,0 +1,24 @@
+{
+  "name": "simple-socket-app",
+  "version": "1.0.0",
+  "description": "A simple WebSocket app using Socket.IO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jourdese/socket_study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jourdese/socket_study/issues"
+  },
+  "homepage": "https://github.com/jourdese/socket_study#readme"
+}
